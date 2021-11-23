@@ -1,5 +1,3 @@
-# System-Programming
+# Lab 6
 
-My name is Talaal Tahir. This is my repository for a Systems Level Programing class I took. The code here will include my Labs that I did throughtout the semster in Systems Programming. The code will include shell script and C programs. The codes can be run using online ides or thorugh the command line on any computer. Also included will be my pdfs that I submitted with the assignments to show exactly what I had to do for each problem. 
-
-For any further questions you can conact me at Talaalosf@gmail.com
+This lab includes two different programs. The checkError.sh program was assigned for the students to find any errors in the program and fix it, the code here is the version that works and can be run a putty or comamnd line. The program called foo.sh, finds the factorial of a number that the user inputs, and can be run on a text editor or command line. Both programs include pdfs pertaining to how they were created.
